@@ -1,0 +1,1122 @@
+[
+    {
+        "exam_name": "My Free Exam",
+        "exam_year": 2025,
+        "subject": "Banking and Financial Awareness",
+        "question_text": "We should keep our savings with banks because",
+        "options": [
+            "It is safe",
+            "Earns interest",
+            "Can be withdrawn anytime",
+            "All of above"
+        ],
+        "correct_option": "D",
+        "explanation": ""
+    },
+    {
+        "exam_name": "My Free Exam",
+        "exam_year": 2025,
+        "subject": "Banking and Financial Awareness",
+        "question_text": "Bank does not give loan against",
+        "options": [
+            "Gold Ornaments",
+            "LIC policy",
+            "Lottery ticket",
+            "NSC"
+        ],
+        "correct_option": "C",
+        "explanation": ""
+    },
+    {
+        "exam_name": "My Free Exam",
+        "exam_year": 2025,
+        "subject": "Banking and Financial Awareness",
+        "question_text": "Bank having maximum number of branches in India",
+        "options": [
+            "Reserve Bank of India",
+            "State Bank of India",
+            "Punjab National Bank",
+            "Bank of Baroda"
+        ],
+        "correct_option": "B",
+        "explanation": ""
+    },
+    {
+        "exam_name": "My Free Exam",
+        "exam_year": 2025,
+        "subject": "Banking and Financial Awareness",
+        "question_text": "100/- Rupee note is signed by",
+        "options": [
+            "Prime Minister",
+            "Finance Minister",
+            "RBI Governor",
+            "None of above"
+        ],
+        "correct_option": "C",
+        "explanation": ""
+    },
+    {
+        "exam_name": "My Free Exam",
+        "exam_year": 2025,
+        "subject": "Banking and Financial Awareness",
+        "question_text": "ATM password should be kept in",
+        "options": [
+            "Personal diary",
+            "Office diary",
+            "Memory",
+            "All of above"
+        ],
+        "correct_option": "C",
+        "explanation": ""
+    },
+    {
+        "exam_name": "My Free Exam",
+        "exam_year": 2025,
+        "subject": "Banking and Financial Awareness",
+        "question_text": "ATM password to be shared only with",
+        "options": [
+            "Spouse",
+            "Obedient son",
+            "Obedient daughter",
+            "None of above"
+        ],
+        "correct_option": "D",
+        "explanation": ""
+    },
+    {
+        "exam_name": "My Free Exam",
+        "exam_year": 2025,
+        "subject": "Banking and Financial Awareness",
+        "question_text": "Nomination can be done in",
+        "options": [
+            "Savings Bank account",
+            "Recurring Deposit account",
+            "Fixed Deposit account",
+            "All of above"
+        ],
+        "correct_option": "D",
+        "explanation": ""
+    },
+    {
+        "exam_name": "My Free Exam",
+        "exam_year": 2025,
+        "subject": "Banking and Financial Awareness",
+        "question_text": "Who is the present Governor of RBI?",
+        "options": [
+            "K.C. Chakrabarty",
+            "D K Mittal",
+            "Raghuram Rajan",
+            "Montek Singh Ahluwalia"
+        ],
+        "correct_option": "C",
+        "explanation": ""
+    },
+    {
+        "exam_name": "My Free Exam",
+        "exam_year": 2025,
+        "subject": "Banking and Financial Awareness",
+        "question_text": "is the logo of",
+        "options": [
+            "State Bank of India",
+            "Punjab National Bank",
+            "Bank of Baroda",
+            "None of above"
+        ],
+        "correct_option": "A",
+        "explanation": ""
+    },
+    {
+        "exam_name": "My Free Exam",
+        "exam_year": 2025,
+        "subject": "Banking and Financial Awareness",
+        "question_text": "Minimum age required to open SB account in the bank",
+        "options": [
+            "8 years",
+            "10 years",
+            "12 years",
+            "None of above"
+        ],
+        "correct_option": "B",
+        "explanation": ""
+    },
+    {
+        "exam_name": "My Free Exam",
+        "exam_year": 2025,
+        "subject": "Banking and Financial Awareness",
+        "question_text": "Bank does not provide loans for",
+        "options": [
+            "Crop loans",
+            "Education loans",
+            "Home loans",
+            "Drinking & Gambling"
+        ],
+        "correct_option": "D",
+        "explanation": ""
+    },
+    {
+        "exam_name": "My Free Exam",
+        "exam_year": 2025,
+        "subject": "Banking and Financial Awareness",
+        "question_text": "KYC means",
+        "options": [
+            "Know your customer",
+            "Know your character",
+            "Both of above",
+            "None of above"
+        ],
+        "correct_option": "A",
+        "explanation": ""
+    },
+    {
+        "exam_name": "My Free Exam",
+        "exam_year": 2025,
+        "subject": "Banking and Financial Awareness",
+        "question_text": "Loans from money lenders are",
+        "options": [
+            "With High rate of interest",
+            "No proper accounting",
+            "No transparency",
+            "All of above"
+        ],
+        "correct_option": "D",
+        "explanation": ""
+    },
+    {
+        "exam_name": "My Free Exam",
+        "exam_year": 2025,
+        "subject": "Banking and Financial Awareness",
+        "question_text": "ATM means",
+        "options": [
+            "Any Time Money",
+            "Auto Truck of Mahindra",
+            "Automated Teller Machine",
+            "None of above"
+        ],
+        "correct_option": "C",
+        "explanation": ""
+    },
+    {
+        "exam_name": "My Free Exam",
+        "exam_year": 2025,
+        "subject": "Banking and Financial Awareness",
+        "question_text": "Timely repayment of loans results",
+        "options": [
+            "Good reputation",
+            "No tension",
+            "Easily availability of loan in future",
+            "All of above"
+        ],
+        "correct_option": "D",
+        "explanation": ""
+    },
+    {
+        "exam_name": "My Free Exam",
+        "exam_year": 2025,
+        "subject": "Banking and Financial Awareness",
+        "question_text": "Defaulter of loan means",
+        "options": [
+            "Not paying loan instalments",
+            "Bad reputation",
+            "Illegal activities",
+            "None of above"
+        ],
+        "correct_option": "A",
+        "explanation": ""
+    },
+    {
+        "exam_name": "My Free Exam",
+        "exam_year": 2025,
+        "subject": "Banking and Financial Awareness",
+        "question_text": "Life insurance means",
+        "options": [
+            "Insurance of human",
+            "Insurance of life of human and Cattle",
+            "Insurance of Life of Machines",
+            "All of above"
+        ],
+        "correct_option": "A",
+        "explanation": ""
+    },
+    {
+        "exam_name": "My Free Exam",
+        "exam_year": 2025,
+        "subject": "Banking and Financial Awareness",
+        "question_text": "General Insurance relates to insurance against",
+        "options": [
+            "Fire",
+            "Theft",
+            "Burglary",
+            "All of above"
+        ],
+        "correct_option": "D",
+        "explanation": ""
+    },
+    {
+        "exam_name": "My Free Exam",
+        "exam_year": 2025,
+        "subject": "Banking and Financial Awareness",
+        "question_text": "Aadhaar is",
+        "options": [
+            "12 digit number card",
+            "Identity proof issued by UIDAI",
+            "Both (a) & (b)",
+            "None of above"
+        ],
+        "correct_option": "C",
+        "explanation": ""
+    },
+    {
+        "exam_name": "My Free Exam",
+        "exam_year": 2025,
+        "subject": "Banking and Financial Awareness",
+        "question_text": "E or S means",
+        "options": [
+            "East or South zone",
+            "Easy and Swift",
+            "Either or Survivor",
+            "None of above"
+        ],
+        "correct_option": "C",
+        "explanation": ""
+    },
+    {
+        "exam_name": "My Free Exam",
+        "exam_year": 2025,
+        "subject": "Banking and Financial Awareness",
+        "question_text": "Which is prohibited for writing on currency notes?",
+        "options": [
+            "Political message",
+            "Religious message",
+            "Personal message",
+            "All of above"
+        ],
+        "correct_option": "D",
+        "explanation": ""
+    },
+    {
+        "exam_name": "My Free Exam",
+        "exam_year": 2025,
+        "subject": "Banking and Financial Awareness",
+        "question_text": "PPF means",
+        "options": [
+            "Pension Planning Funds",
+            "Person having Pension Facilities",
+            "Public Provident Fund",
+            "Permanent Practitioner\u2019s Forum"
+        ],
+        "correct_option": "C",
+        "explanation": ""
+    },
+    {
+        "exam_name": "My Free Exam",
+        "exam_year": 2025,
+        "subject": "Banking and Financial Awareness",
+        "question_text": "Highest denomination of currency notes issued by RBI is",
+        "options": [
+            "Rs.100/-",
+            "Rs.500/-",
+            "Rs.1,000/-",
+            "Rs.10,000/-"
+        ],
+        "correct_option": "C",
+        "explanation": ""
+    },
+    {
+        "exam_name": "My Free Exam",
+        "exam_year": 2025,
+        "subject": "Banking and Financial Awareness",
+        "question_text": "NRI means",
+        "options": [
+            "Non Rural Individuals",
+            "Non Rural Immigrants",
+            "Non Resident Indian",
+            "None of above"
+        ],
+        "correct_option": "C",
+        "explanation": ""
+    },
+    {
+        "exam_name": "My Free Exam",
+        "exam_year": 2025,
+        "subject": "Banking and Financial Awareness",
+        "question_text": "PAN means",
+        "options": [
+            "A kind of utensil",
+            "Primary Account Number",
+            "Permanent Account Number",
+            "None of above"
+        ],
+        "correct_option": "C",
+        "explanation": ""
+    },
+    {
+        "exam_name": "My Free Exam",
+        "exam_year": 2025,
+        "subject": "Banking and Financial Awareness",
+        "question_text": "Who is the present Chairman of State Bank of India?",
+        "options": [
+            "Arundhati Bhattacharya",
+            "O.P. Bhatt",
+            "Pratip Chaudhuri",
+            "Chanda Kochar"
+        ],
+        "correct_option": "A",
+        "explanation": ""
+    },
+    {
+        "exam_name": "My Free Exam",
+        "exam_year": 2025,
+        "subject": "Banking and Financial Awareness",
+        "question_text": "Bank provides loans for",
+        "options": [
+            "Home",
+            "Car",
+            "Education",
+            "All of above"
+        ],
+        "correct_option": "D",
+        "explanation": ""
+    },
+    {
+        "exam_name": "My Free Exam",
+        "exam_year": 2025,
+        "subject": "Banking and Financial Awareness",
+        "question_text": "Which currency note has security thread?",
+        "options": [
+            "Rs.50/-",
+            "Rs.100/-",
+            "Rs.500/-",
+            "All of above"
+        ],
+        "correct_option": "D",
+        "explanation": ""
+    },
+    {
+        "exam_name": "My Free Exam",
+        "exam_year": 2025,
+        "subject": "Banking and Financial Awareness",
+        "question_text": "The safest place for keeping money",
+        "options": [
+            "A pit dug in the ground",
+            "An iron box",
+            "Bank",
+            "Money lender"
+        ],
+        "correct_option": "C",
+        "explanation": ""
+    },
+    {
+        "exam_name": "My Free Exam",
+        "exam_year": 2025,
+        "subject": "Banking and Financial Awareness",
+        "question_text": "Gold and silver ornaments should be kept in bank lockers",
+        "options": [
+            "It is safe",
+            "No risk of theft",
+            "Both (a) & (b)",
+            "None of above"
+        ],
+        "correct_option": "C",
+        "explanation": ""
+    },
+    {
+        "exam_name": "My Free Exam",
+        "exam_year": 2025,
+        "subject": "Banking and Financial Awareness",
+        "question_text": "Currency notes are issued by",
+        "options": [
+            "RBI",
+            "NABARD",
+            "Public sector banks",
+            "Central Government"
+        ],
+        "correct_option": "A",
+        "explanation": ""
+    },
+    {
+        "exam_name": "My Free Exam",
+        "exam_year": 2025,
+        "subject": "Banking and Financial Awareness",
+        "question_text": "Coins are issued by",
+        "options": [
+            "Government of India",
+            "NABARD",
+            "Public sector banks",
+            "State Bank of India"
+        ],
+        "correct_option": "A",
+        "explanation": ""
+    },
+    {
+        "exam_name": "My Free Exam",
+        "exam_year": 2025,
+        "subject": "Banking and Financial Awareness",
+        "question_text": "Bank Pass Book is",
+        "options": [
+            "Issued by Bank",
+            "Contains transaction details of Bank account",
+            "Shows balance in account",
+            "All of above"
+        ],
+        "correct_option": "D",
+        "explanation": ""
+    },
+    {
+        "exam_name": "My Free Exam",
+        "exam_year": 2025,
+        "subject": "Banking and Financial Awareness",
+        "question_text": "Banks pays interest on",
+        "options": [
+            "Deposits",
+            "Loans",
+            "Both (a) & (b)",
+            "None of above"
+        ],
+        "correct_option": "A",
+        "explanation": ""
+    },
+    {
+        "exam_name": "My Free Exam",
+        "exam_year": 2025,
+        "subject": "Banking and Financial Awareness",
+        "question_text": "Bank charges interest on",
+        "options": [
+            "Deposits",
+            "Loans",
+            "Both (a) & (b)",
+            "None of above"
+        ],
+        "correct_option": "B",
+        "explanation": ""
+    },
+    {
+        "exam_name": "My Free Exam",
+        "exam_year": 2025,
+        "subject": "Banking and Financial Awareness",
+        "question_text": "Education Loans",
+        "options": [
+            "Cover tuition fee & expenses",
+            "Are repayable after completion of course",
+            "Granted for studies in India & abroad",
+            "All of above"
+        ],
+        "correct_option": "D",
+        "explanation": ""
+    },
+    {
+        "exam_name": "My Free Exam",
+        "exam_year": 2025,
+        "subject": "Banking and Financial Awareness",
+        "question_text": "Business Correspondent means",
+        "options": [
+            "An agent who provides banking services",
+            "An agent of business house",
+            "A type of money lender",
+            "None of above"
+        ],
+        "correct_option": "A",
+        "explanation": ""
+    },
+    {
+        "exam_name": "My Free Exam",
+        "exam_year": 2025,
+        "subject": "Banking and Financial Awareness",
+        "question_text": "Internet banking refers to",
+        "options": [
+            "Operation of account through internet",
+            "Opening of account through ATM",
+            "Both (a) & (b)",
+            "None of above"
+        ],
+        "correct_option": "A",
+        "explanation": ""
+    },
+    {
+        "exam_name": "My Free Exam",
+        "exam_year": 2025,
+        "subject": "Banking and Financial Awareness",
+        "question_text": "Nomination once done can",
+        "options": [
+            "Not be cancelled",
+            "Be cancelled",
+            "Not be changed",
+            "None of above"
+        ],
+        "correct_option": "B",
+        "explanation": ""
+    },
+    {
+        "exam_name": "My Free Exam",
+        "exam_year": 2025,
+        "subject": "Banking and Financial Awareness",
+        "question_text": "Who can open bank account?",
+        "options": [
+            "Indian citizen",
+            "Non Resident Indian",
+            "Illiterate",
+            "All of above"
+        ],
+        "correct_option": "D",
+        "explanation": ""
+    },
+    {
+        "exam_name": "My Free Exam",
+        "exam_year": 2025,
+        "subject": "Banking and Financial Awareness",
+        "question_text": "PAN number is required for",
+        "options": [
+            "Deposits less than Rs.50,000/-",
+            "Deposits in excess of Rs.1 lac",
+            "Deposits Rs.50,000/- & above",
+            "All transactions"
+        ],
+        "correct_option": "C",
+        "explanation": ""
+    },
+    {
+        "exam_name": "My Free Exam",
+        "exam_year": 2025,
+        "subject": "Banking and Financial Awareness",
+        "question_text": "TDS means",
+        "options": [
+            "Time Deposit Scheme",
+            "Total Deposit Scheme",
+            "Tax Deducted at Source",
+            "None of above"
+        ],
+        "correct_option": "C",
+        "explanation": ""
+    },
+    {
+        "exam_name": "My Free Exam",
+        "exam_year": 2025,
+        "subject": "Banking and Financial Awareness",
+        "question_text": "Maximum amount of Cheque",
+        "options": [
+            "Rs.100 crore",
+            "No limit",
+            "Rs.1 crore",
+            "None of above"
+        ],
+        "correct_option": "B",
+        "explanation": ""
+    },
+    {
+        "exam_name": "My Free Exam",
+        "exam_year": 2025,
+        "subject": "Banking and Financial Awareness",
+        "question_text": "Bank draft is issued by",
+        "options": [
+            "Private Sector Banks",
+            "Regional Rural Banks",
+            "Public Sector Banks",
+            "All of above"
+        ],
+        "correct_option": "D",
+        "explanation": ""
+    },
+    {
+        "exam_name": "My Free Exam",
+        "exam_year": 2025,
+        "subject": "Banking and Financial Awareness",
+        "question_text": "Self Help Group involves",
+        "options": [
+            "Group of 5 to 20 people",
+            "Regular saving habits",
+            "Inter-lending within the group members",
+            "All of above"
+        ],
+        "correct_option": "D",
+        "explanation": ""
+    },
+    {
+        "exam_name": "My Free Exam",
+        "exam_year": 2025,
+        "subject": "Banking and Financial Awareness",
+        "question_text": "Payment of cheque can be stopped by",
+        "options": [
+            "Beneficiary",
+            "Nominee",
+            "Drawer of cheque",
+            "All of above"
+        ],
+        "correct_option": "C",
+        "explanation": ""
+    },
+    {
+        "exam_name": "My Free Exam",
+        "exam_year": 2025,
+        "subject": "Banking and Financial Awareness",
+        "question_text": "Account payee cheques can be paid",
+        "options": [
+            "At cash counter of Bank",
+            "At ATM",
+            "By deposit in Bank account",
+            "None of above"
+        ],
+        "correct_option": "C",
+        "explanation": ""
+    },
+    {
+        "exam_name": "My Free Exam",
+        "exam_year": 2025,
+        "subject": "Banking and Financial Awareness",
+        "question_text": "In Recurring Deposits,",
+        "options": [
+            "a fixed sum is deposited every month",
+            "period of deposit is a fixed tenure",
+            "interest is paid at FDR rate",
+            "All of above"
+        ],
+        "correct_option": "D",
+        "explanation": ""
+    },
+    {
+        "exam_name": "My Free Exam",
+        "exam_year": 2025,
+        "subject": "Banking and Financial Awareness",
+        "question_text": "While making nomination, signature of nominee is required on",
+        "options": [
+            "Account Opening Form",
+            "Nomination form",
+            "Affidavit",
+            "None of above"
+        ],
+        "correct_option": "D",
+        "explanation": ""
+    },
+    {
+        "exam_name": "My Free Exam",
+        "exam_year": 2025,
+        "subject": "Banking and Financial Awareness",
+        "question_text": "Interest on Savings Bank Deposits is paid",
+        "options": [
+            "Every month",
+            "Quarterly",
+            "Half yearly",
+            "Yearly"
+        ],
+        "correct_option": "C",
+        "explanation": ""
+    },
+    {
+        "exam_name": "My Free Exam",
+        "exam_year": 2025,
+        "subject": "Banking and Financial Awareness",
+        "question_text": "Mutilated notes",
+        "options": [
+            "should be burnt away",
+            "should be thrown away",
+            "can be exchanged at Bank",
+            "None of above"
+        ],
+        "correct_option": "C",
+        "explanation": ""
+    },
+    {
+        "exam_name": "My Free Exam",
+        "exam_year": 2025,
+        "subject": "Banking and Financial Awareness",
+        "question_text": "ATM can be used for",
+        "options": [
+            "Cash withdrawal",
+            "Account enquiry",
+            "Statement of account",
+            "All of above"
+        ],
+        "correct_option": "D",
+        "explanation": ""
+    },
+    {
+        "exam_name": "My Free Exam",
+        "exam_year": 2025,
+        "subject": "Banking and Financial Awareness",
+        "question_text": "Upon detection of a counterfeit note at the counter, Bank",
+        "options": [
+            "Returns the note to the customer",
+            "Exchange with a genuine Note",
+            "Deposit in Account",
+            "Impound the Note and issue receipt"
+        ],
+        "correct_option": "D",
+        "explanation": ""
+    },
+    {
+        "exam_name": "My Free Exam",
+        "exam_year": 2025,
+        "subject": "Banking and Financial Awareness",
+        "question_text": "Fixed Deposit can",
+        "options": [
+            "not be withdrawn before maturity",
+            "paid only after maturity",
+            "withdrawn before maturity",
+            "All of above"
+        ],
+        "correct_option": "C",
+        "explanation": ""
+    },
+    {
+        "exam_name": "My Free Exam",
+        "exam_year": 2025,
+        "subject": "Banking and Financial Awareness",
+        "question_text": "Interest on FDRs is compounded on",
+        "options": [
+            "Monthly basis",
+            "Quarterly basis",
+            "Half yearly basis",
+            "Yearly basis"
+        ],
+        "correct_option": "B",
+        "explanation": ""
+    },
+    {
+        "exam_name": "My Free Exam",
+        "exam_year": 2025,
+        "subject": "Banking and Financial Awareness",
+        "question_text": "Contents of locker are",
+        "options": [
+            "only known to hirer",
+            "known to Bank",
+            "Both (a) & (b)",
+            "None of above"
+        ],
+        "correct_option": "A",
+        "explanation": ""
+    },
+    {
+        "exam_name": "My Free Exam",
+        "exam_year": 2025,
+        "subject": "Banking and Financial Awareness",
+        "question_text": "If locker rent is not paid, Bank can",
+        "options": [
+            "seal the locker",
+            "stop operation of locker",
+            "break open the locker after giving suitable notice",
+            "All of above"
+        ],
+        "correct_option": "D",
+        "explanation": ""
+    },
+    {
+        "exam_name": "My Free Exam",
+        "exam_year": 2025,
+        "subject": "Banking and Financial Awareness",
+        "question_text": "MGNREGS stands for",
+        "options": [
+            "Mahatma Gandhi National Rural Employment Generation Scheme",
+            "Mahatma Gandhi Nutrition & Rural Employment Generation Scheme",
+            "Mahatma Gandhi National Rural Employment Guarantee Scheme",
+            "None of above"
+        ],
+        "correct_option": "C",
+        "explanation": ""
+    },
+    {
+        "exam_name": "My Free Exam",
+        "exam_year": 2025,
+        "subject": "Banking and Financial Awareness",
+        "question_text": "Maximum tenure of Fixed Deposit is",
+        "options": [
+            "5 years",
+            "7 years",
+            "8 years",
+            "10 years"
+        ],
+        "correct_option": "D",
+        "explanation": ""
+    },
+    {
+        "exam_name": "My Free Exam",
+        "exam_year": 2025,
+        "subject": "Banking and Financial Awareness",
+        "question_text": "What is RuPay Debit Card?",
+        "options": [
+            "Domestic debit card",
+            "Introduced by National Payments Corporation of India",
+            "Accepted at all ATMs & PoS machines",
+            "All of above"
+        ],
+        "correct_option": "D",
+        "explanation": ""
+    },
+    {
+        "exam_name": "My Free Exam",
+        "exam_year": 2025,
+        "subject": "Banking and Financial Awareness",
+        "question_text": "To whom Overdraft facility of Rs.5,000/- in PMJDY Account is available?",
+        "options": [
+            "After 6 months of satisfactory conduct of account",
+            "One account per household",
+            "Customers in age group of 18-60 years",
+            "All of above"
+        ],
+        "correct_option": "D",
+        "explanation": ""
+    },
+    {
+        "exam_name": "My Free Exam",
+        "exam_year": 2025,
+        "subject": "Banking and Financial Awareness",
+        "question_text": "What is Direct Benefit Transfer?",
+        "options": [
+            "Cash discount on goods",
+            "Remittance through Banks",
+            "Transfer of social benefits / subsidies directly in Bank accounts of beneficiaries",
+            "None of above"
+        ],
+        "correct_option": "C",
+        "explanation": ""
+    },
+    {
+        "exam_name": "My Free Exam",
+        "exam_year": 2025,
+        "subject": "Banking and Financial Awareness",
+        "question_text": "What is meant by Aadhaar seeding?",
+        "options": [
+            "Linking of Aadhaar with Bank account",
+            "Duplicate issuance of Aadhaar",
+            "Transfer of Aadhaar",
+            "None of above"
+        ],
+        "correct_option": "A",
+        "explanation": ""
+    },
+    {
+        "exam_name": "My Free Exam",
+        "exam_year": 2025,
+        "subject": "Banking and Financial Awareness",
+        "question_text": "What are the benefits attached to PMJDY?",
+        "options": [
+            "Accident insurance cover of Rs.1.00 lac",
+            "Life insurance cover of Rs.30,000/-",
+            "Overdraft facility up to Rs.5,000/-",
+            "All of above"
+        ],
+        "correct_option": "D",
+        "explanation": ""
+    },
+    {
+        "exam_name": "My Free Exam",
+        "exam_year": 2025,
+        "subject": "Banking and Financial Awareness",
+        "question_text": "Who can open an account under PMJDY?",
+        "options": [
+            "Minor above the age of 10 years",
+            "Only lady of the house",
+            "Only head of the family",
+            "All of above"
+        ],
+        "correct_option": "D",
+        "explanation": ""
+    },
+    {
+        "exam_name": "My Free Exam",
+        "exam_year": 2025,
+        "subject": "Banking and Financial Awareness",
+        "question_text": "Who is Bank Mitra?",
+        "options": [
+            "Banking Correspondents engaged by Banks",
+            "Valuable customer of Bank",
+            "Security guard in a branch",
+            "None of above"
+        ],
+        "correct_option": "A",
+        "explanation": ""
+    },
+    {
+        "exam_name": "My Free Exam",
+        "exam_year": 2025,
+        "subject": "Banking and Financial Awareness",
+        "question_text": "What is the maximum amount of deposits acceptable in Small accounts?",
+        "options": [
+            "Rs.30,000/-",
+            "Rs.40,000/-",
+            "Rs.50,000/-",
+            "None of above"
+        ],
+        "correct_option": "C",
+        "explanation": ""
+    },
+    {
+        "exam_name": "My Free Exam",
+        "exam_year": 2025,
+        "subject": "Banking and Financial Awareness",
+        "question_text": "What kinds of services are available free in \u2018Basic Savings Bank Deposit Account\u2019?",
+        "options": [
+            "Receipt / credit of money through NEFT / RTGS",
+            "No annual maintenance charges on ATM-cum-Debit card",
+            "4 withdrawals in a month (including ATM withdrawals)",
+            "All of above"
+        ],
+        "correct_option": "D",
+        "explanation": ""
+    },
+    {
+        "exam_name": "My Free Exam",
+        "exam_year": 2025,
+        "subject": "Banking and Financial Awareness",
+        "question_text": "What is the minimum deposit required while opening a BSBD Account?",
+        "options": [
+            "Rs.100/-",
+            "No minimum deposit required",
+            "Rs.1,000/-",
+            "Rs.500/-"
+        ],
+        "correct_option": "B",
+        "explanation": ""
+    },
+    {
+        "exam_name": "My Free Exam",
+        "exam_year": 2025,
+        "subject": "Banking and Financial Awareness",
+        "question_text": "What is Atal Pension Yojana (APY)?",
+        "options": [
+            "Provides social security to the unorganized sector",
+            "Encourages workers to voluntarily save for their retirement",
+            "Fixed pension is paid on attaining age of 60 years",
+            "All of above"
+        ],
+        "correct_option": "D",
+        "explanation": ""
+    },
+    {
+        "exam_name": "My Free Exam",
+        "exam_year": 2025,
+        "subject": "Banking and Financial Awareness",
+        "question_text": "What is Pradhan Mantri Suraksha Bima Yojana (PMSBY)?",
+        "options": [
+            "Accidental insurance cover",
+            "Life insurance cover",
+            "Overdraft up to Rs.5,000/-",
+            "None of above"
+        ],
+        "correct_option": "A",
+        "explanation": ""
+    },
+    {
+        "exam_name": "My Free Exam",
+        "exam_year": 2025,
+        "subject": "Banking and Financial Awareness",
+        "question_text": "What is Pradhan Mantri Jivan Jyoti Bima Yojana (PMJJBY)?",
+        "options": [
+            "Covers life insurance up to Rs.2 lac",
+            "Accident insurance cover",
+            "Both (a) & (b)",
+            "None of above"
+        ],
+        "correct_option": "A",
+        "explanation": ""
+    },
+    {
+        "exam_name": "My Free Exam",
+        "exam_year": 2025,
+        "subject": "Banking and Financial Awareness",
+        "question_text": "Which type of deposits earns higher interest rate?",
+        "options": [
+            "Current account",
+            "Savings Account",
+            "Fixed Deposits",
+            "None of above"
+        ],
+        "correct_option": "C",
+        "explanation": ""
+    },
+    {
+        "exam_name": "My Free Exam",
+        "exam_year": 2025,
+        "subject": "Banking and Financial Awareness",
+        "question_text": "Under PMSBY, accidental death claim is available for:",
+        "options": [
+            "Rs.1 lac",
+            "Rs.2 lac",
+            "Rs.3 lac",
+            "None of above"
+        ],
+        "correct_option": "B",
+        "explanation": ""
+    },
+    {
+        "exam_name": "My Free Exam",
+        "exam_year": 2025,
+        "subject": "Banking and Financial Awareness",
+        "question_text": "What is validity period of cheque?",
+        "options": [
+            "4 months from date of issue",
+            "3 months from date of issue",
+            "1 month from date of issue",
+            "Unlimited"
+        ],
+        "correct_option": "B",
+        "explanation": ""
+    },
+    {
+        "exam_name": "My Free Exam",
+        "exam_year": 2025,
+        "subject": "Banking and Financial Awareness",
+        "question_text": "Under PMSBY, partial disability claim is available for:",
+        "options": [
+            "Rs.50,000/-",
+            "Rs.1 lac",
+            "Rs.2 lac",
+            "None of above"
+        ],
+        "correct_option": "B",
+        "explanation": ""
+    },
+    {
+        "exam_name": "My Free Exam",
+        "exam_year": 2025,
+        "subject": "Banking and Financial Awareness",
+        "question_text": "Can illiterate person be issued Debit card?",
+        "options": [
+            "No",
+            "Yes",
+            "Only in case of joint account",
+            "Only in case he is head of family"
+        ],
+        "correct_option": "B",
+        "explanation": ""
+    },
+    {
+        "exam_name": "My Free Exam",
+        "exam_year": 2025,
+        "subject": "Banking and Financial Awareness",
+        "question_text": "Under APY, fixed pension can be chosen from:",
+        "options": [
+            "Rs.1,000/-, Rs.2,000/-, Rs.3,000/-, Rs.4,000/-, Rs.5,000/-",
+            "Rs.2,000/-, Rs.3,000/-, Rs.4,000/-, Rs.5,000/-, Rs.6,000/-",
+            "Rs.500/-, Rs.1,000/-, Rs.2,000/-, Rs.3,000/-, Rs.4,000/-",
+            "None of above"
+        ],
+        "correct_option": "A",
+        "explanation": ""
+    },
+    {
+        "exam_name": "My Free Exam",
+        "exam_year": 2025,
+        "subject": "Banking and Financial Awareness",
+        "question_text": "PMJDY LIC Insurance of Rs.30,000/- is available for first time accounts opened",
+        "options": [
+            "On 15th August 2014",
+            "On 26th January 2015",
+            "Between 15th August 2014 and 26th January 2015",
+            "None of above"
+        ],
+        "correct_option": "C",
+        "explanation": ""
+    },
+    {
+        "exam_name": "My Free Exam",
+        "exam_year": 2025,
+        "subject": "Banking and Financial Awareness",
+        "question_text": "_______ are not covered under PMJDY Life Insurance Scheme of Rs.30,000/-",
+        "options": [
+            "Employees of Central / State Govt. / Public Sector Undertakings / Banks",
+            "Income Tax Payee",
+            "Aam Aadmi Bima Yojana beneficiaries",
+            "All of above"
+        ],
+        "correct_option": "D",
+        "explanation": ""
+    }
+]
